@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-74aca": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-74aca"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-74aca"
+  }
+}
